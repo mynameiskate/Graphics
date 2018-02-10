@@ -2,7 +2,7 @@
     CONSOLE APPLICATION : GraphicsLab Project Overview
 ========================================================================
 
-AppWizard has created this GraphicsLab application for you.
+This is a simple graphic animation made with GLUT. 
 
 This file contains a summary of what you will find in each of the files that
 make up your GraphicsLab application.
